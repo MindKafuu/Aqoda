@@ -1,0 +1,8 @@
+create_hotel 2 3
+book 203 Thor 32
+book 101 PeterParker 16
+book 102 StephenStrange 36
+book 201 TonyStark 48
+book 202 TonyStark 48
+book 203 TonyStark 48
+
